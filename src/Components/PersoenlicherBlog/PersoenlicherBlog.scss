@@ -1,0 +1,18 @@
+.persoenlicherBlog__container {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px,
+    rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+
+.blog__image {
+  width: 100%;
+  height: auto;
+  max-width: 400px;
+}
+
+.blog__content--text {
+  max-width: 400px;
+}
+
+.blog__content--componentText p {
+  margin: 8px !important;
+}
